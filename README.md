@@ -1,4 +1,4 @@
-# :earth_americas: Noname
+# :earth_americas: Hackwatchers
 
 Noname es un smart contract bajo el Near protocol, el cual permite a desarrolladores, hackers y expertos en ciberseguridad crear reportes para apoyar a proyectos dentro del ecosistema near que tengan posibles problemas de ciberseguridad en sus productos. Este smart contract permite:
 
@@ -121,7 +121,10 @@ noname smart contract file system.
 
 # Gracias por visitar nuestro proyecto. :wave:
 
-Aqui les dejamos nuestro diseño - []
+Aqui les dejamos nuestro diseño - 
+![](./images/1.png)
+![](./images/2.png)
+![](./images/3.png)
 
 
 ## License

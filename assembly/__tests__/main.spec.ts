@@ -40,11 +40,24 @@ describe("Create report tests", () => {
 
 describe("Get Report tests", () => {
   it("Should get a Report and not trow error", () => {
+      contract.createReport(
+        "test",
+        "For testing purposes.",
+        "MX, Mexico.",
+        10
+      );
     expect(() => {
       contract.getReport(0);
     }).not.toThrow();
   });
   it("Should fail with negative number", () => {
+      contract.createReport(
+        "test",
+        "For testing purposes.",
+        "MX, Mexico.",
+        10
+      );
+
     expect(() => {
       contract.getReport(-1);
     }).toThrow();
