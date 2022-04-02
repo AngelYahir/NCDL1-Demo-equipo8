@@ -36,7 +36,7 @@ Configura tu near-cli para autorizar tu cuenta de prueba creada recientemente:
 # :page_facing_up:	 Clonar el repositorio
 
 ```html
-    git clone https://github.com/CypherHippie/NCDL1-Demo-equipo8.git
+    git clone https://github.com/AngelYahir/NCDL1-Demo-equipo8.git
 ```
 
 ```html
